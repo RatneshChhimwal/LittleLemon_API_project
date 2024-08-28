@@ -1,0 +1,5 @@
+Ratnesh (manager)  - Token: 93adc12dc69a67ab478dd58ea35fb38a14fc52d7 - password: "123"
+customer_1 - Token: 7880f4c068fe5800b78bce363bb9eebbf520e227 - password: "234"
+customer_2  - Token: 60979bbb2c2c4265bfaef68fb8d1b0797bcf4ab2 - password: "345"
+delivery_crew_1  - Token: 347c9b4e64541794d6764b06a3e28296d836e3fb - password: "456"
+
